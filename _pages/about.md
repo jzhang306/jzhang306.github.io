@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A Senior undergraduate student at the University of Iowa pursuing a Computer Science Bachelor.
+A Senior undergraduate student at the University of Iowa pursuing a Computer Science Bachelor degree.
 
