@@ -12,4 +12,4 @@ I am looking forward to learning more about the Natural Language Process, Lingui
 
 Self-motivated learner, I would share some courses and guides once I make some tutorial videos.<br>
 
-My brief CV is here [CV](../assets/CV.pdf)
+My brief CV is here [CV](../assets/Newest CV.pdf)
