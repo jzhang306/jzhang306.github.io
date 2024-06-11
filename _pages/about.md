@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Incoming graduate student.<br>
-I am looking forward to learning more about the Natural Language Process, Linguistics Model, Machine Learning and Artificial Intelligence on syntax analysis.<br>
+I am looking forward to learning more about the Natural Language Process, Linguistics Model.<br>
 
 Self-motivated learner, I would share some courses and guides once I make some tutorial videos.<br>
 
